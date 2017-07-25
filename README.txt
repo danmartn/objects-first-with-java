@@ -12,3 +12,5 @@ These are believed to be in the public domain and royalty free.
 http://www.javazoom.net
 
 This library is available under the terms of the Gnu LGPL license.
+
+change for dan so can see it work in git
